@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nlshrink",
+    "oncran": true
+  },
+  {
+    "package": "rIsing",
+    "oncran": true
+  }
+]
