@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "nlshrink"]
 	path = nlshrink
 	url = https://github.com/pratik-r/nlshrink
-	shallow = true
-	registered = true
 [submodule "rIsing"]
 	path = rIsing
 	url = https://github.com/pratik-r/rising
-	shallow = true
-	registered = true
